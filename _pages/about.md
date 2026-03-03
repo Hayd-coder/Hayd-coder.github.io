@@ -26,13 +26,13 @@ redirect_from:
 <div class="highlight-box" markdown="1">
 I am a second-year undergraduate at **Xidian University**, majoring in **Network Engineering** in the School of Cyberspace Security and Information Technology. I rank <span style="color:red">**1st/60**</span> in my major with an average GPA of <span style="color:red">**92.4**</span> across core courses. My academic achievements include CET-4 with a score of 613 and CET-6 with a score of 532.
 
-**Core Strengths:**
-<span class="tag">Trustworthy Multi-modal Deep Learning</span>
-<span class="tag tag--green">Multi-view Learning</span>
-<span class="tag tag--purple">Uncertainty Quantification</span>
-<span class="tag tag--orange">Data Mining</span>
+<div class="header-tags">
+  <strong>Research Interests:</strong>
+  <span class="tag">Trustworthy Multi-modal Deep Learning</span>
+  <span class="tag tag--green">Multi-view Learning</span>
+  <span class="tag tag--purple">Uncertainty Quantification</span>
+  <span class="tag tag--orange">Data Mining</span>
 </div>
-
 <span class='anchor' id='educations'></span>
 
 # 📖 Educations
