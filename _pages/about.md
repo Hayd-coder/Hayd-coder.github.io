@@ -73,17 +73,18 @@ My research interest includes neural machine translation and computer vision. I 
 
 <div class="pub-card pub-card--submitted" markdown="1">
 [**Adaptive Multi-view Sparsity Learning for Dimensionally Unbalanced Data**](https://arxiv.org/abs/2603.17610)
-<br> **S. Sun** (Student First Author)
-<br> <span style="color:#d35400; font-weight:bold;">Submitted to IEEE Transactions on Image Processing (TIP, IF=13.7)</span> &emsp; <a href="https://arxiv.org/abs/2603.17610" target="_blank" style="text-decoration:none;">**[arXiv Preprint]**</a>
-<br> *Proposed a novel deep learning framework combining adaptive structural pruning with sparse alignment for unbalanced multi-view learning. Achieved 99.5% classification accuracy on MSRCV1 dataset and improved clustering accuracy by 12% on CUB dataset while reducing FLOPS to 45% of SOTA.*
-<br> **Key Contributions:** <br> 1. Multi-view Sparse Normalization Layer with $L_1$ penalty for cross-view feature fusion
+<br> **Changhao Sun** (Student First Author)
+<br> <span style="color:#d35400; font-weight:bold;">Submitted to IEEE Transactions on Image Processing (TIP, IF=13.7)</span> &emsp; <a href="https://arxiv.org/abs/2603.17610" target="_blank" style="text-decoration:none; color:#0073e6;">**[arXiv Preprint]**</a>
+<br> *Proposed a novel deep learning framework combining adaptive structural pruning with sparse alignment for unbalanced multi-view learning. Achieved 98.3% classification accuracy on the DEAP dataset, and improved clustering accuracy by over 5.3% on the extremely unbalanced CUB dataset while reducing FLOPS to 45% of SOTA.*
+<br> **Key Contributions:**
+<br> 1. Multi-view Sparse Normalization Layer with $L_1$ penalty for cross-view feature fusion
 <br> 2. Parameter-free Neuron Analysis Pruning mechanism based on eigenvalue distribution
 <br> 3. Validation on toy example and 7 real-world datasets including downstream semantic segmentation tasks
 </div>
 
 <div class="pub-card pub-card--submitted" markdown="1">
 [**Trustworthy Stock Price Prediction via Deep Evidential Regression**](https://github.com/Hayd-coder/DESR-Stock-Prediction)
-<br> **S. Sun** (First Author)
+<br> **Changhao Sun** (First Author)
 <br> <span style="color:#d35400; font-weight:bold;">Submitted to Information Fusion (IF=18.6)</span>
 <br> *Developed a framework for trustworthy stock price prediction by introducing evidential regression to explicitly quantify data and model uncertainty. Improved information coefficient Information Ratio (ICIR) by 48% over baseline methods.*
 <br> **Key Contributions:**
